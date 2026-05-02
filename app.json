@@ -1,0 +1,15 @@
+{
+    "expo": {
+        "name": "AsistentePersonal",
+        "slug": "asistente-personal",
+        "version": "1.0.0",
+        "sdkVersion": "55.0.0",
+        "platforms": [
+            "android"
+        ],
+        "android": {
+            "package": "com.asistente.personal",
+            "versionCode": 1
+        }
+    }
+}

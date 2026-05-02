@@ -1,0 +1,8 @@
+{
+    "env": {
+        "ANTHROPIC_BASE_URL": "https://openrouter.ai/api",
+        "ANTHROPIC_AUTH_TOKEN": "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",
+        "ANTHROPIC_API_KEY": "",
+        "ANTHROPIC_MODEL": "openrouter/free"
+    }
+}
